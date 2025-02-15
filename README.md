@@ -18,4 +18,3 @@
 - **Sets**: Unordered, mutable, and only unique elements. Great for membership tests.
 - **Tuples**: Ordered, immutable, and allows duplicates. Used for fixed collections of items.
 
-![ooo](https://github.com/user-attachments/assets/d5a5c698-b11c-4ed7-a999-dc9aad188142)
