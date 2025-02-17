@@ -136,3 +136,7 @@ These characteristics determine how easily the software can be updated or modifi
 ---
 
 These characteristics are essential for evaluating software performance, future-proofing, and ensuring ongoing improvements throughout its lifecycle.
+---
+
+![image](https://github.com/user-attachments/assets/09511ae9-0738-4be9-8af9-b6db15f79cdb)
+
