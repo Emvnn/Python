@@ -100,3 +100,39 @@ OOP is a programming paradigm that organizes code into objects, which combine **
    ```  
 
 ---
+# Software Characteristics Overview
+
+## 1. Operational Characteristics
+These define how the software behaves during its normal use and operations.
+
+- **Reliability:** Ensures the software consistently performs without errors.
+- **Efficiency:** Measures the optimal use of resources (memory, CPU, etc.).
+- **Usability:** Describes how easy it is for users to operate the software.
+- **Security:** Protects data and systems from unauthorized access or attacks.
+- **Availability:** Ensures the software is available for use when required.
+
+---
+
+## 2. Transitional Characteristics
+These characteristics deal with how the software adapts to changes, migrations, or different environments.
+
+- **Portability:** The ability to run on different hardware, operating systems, or environments.
+- **Scalability:** The capacity to grow in size, users, or functionality without performance degradation.
+- **Interoperability:** Ensures compatibility and integration with other systems and software.
+- **Adaptability:** Allows for changes and improvements without significant rework or disruptions.
+- **Migration/Upgradability:** The ease of transitioning to new versions or migrating data and users to a new system.
+
+---
+
+## 3. Maintainability Characteristics
+These characteristics determine how easily the software can be updated or modified over its lifecycle.
+
+- **Modularity:** The software is broken down into manageable, self-contained components.
+- **Testability:** The ease with which the software can be tested to ensure quality.
+- **Changeability:** How easily the software can be modified to accommodate new requirements or fix issues.
+- **Flexibility:** The software’s ability to accommodate changes without significant impact on other parts of the system.
+- **Correctability:** The ease of identifying and fixing defects or bugs.
+
+---
+
+These characteristics are essential for evaluating software performance, future-proofing, and ensuring ongoing improvements throughout its lifecycle.
