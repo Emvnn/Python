@@ -1,4 +1,4 @@
-![o](https://github.com/user-attachments/assets/44e810eb-7921-4bb3-92a9-42961343e436)
+![640px-Windows_2000_architecture](https://github.com/user-attachments/assets/942b913f-ff92-41e7-90e2-08674a0bf92c)![o](https://github.com/user-attachments/assets/44e810eb-7921-4bb3-92a9-42961343e436)
 ![oo](https://github.com/user-attachments/assets/8140493b-edd2-407d-b244-eaffe40ed3d4)
 
 ---
@@ -147,16 +147,21 @@ APIs, or Application Programming Interfaces, are sets of rules and protocols tha
 ![APIs](https://github.com/user-attachments/assets/ffc09e24-c03b-4f86-9be6-35bcc8167444)
 ---
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h1>What are APIs?</h1>
-    <p>
-      APIs, or Application Programming Interfaces, are sets of rules and protocols that allow different software applications to communicate with each other. They act as bridges that enable interaction between different systems, software, or services without needing to understand the internal workings of each. APIs can be thought of as messengers that take a request, relay it to another system, and then return the response.
-    </p>
-  </div>
-  <div style="flex: 0;">
-    <img src="https://github.com/user-attachments/assets/ffc09e24-c03b-4f86-9be6-35bcc8167444" alt="APIs" style="max-width: 300px; margin-left: 20px;">
-  </div>
-</div>
+# Software Diagrams
 
+---
+## Block Diagram
+
+![640px-Windows_2000_architecture](https://github.com/user-attachments/assets/0c2f2402-1656-4762-896e-bec18553f768)
+
+---
+## State Diagram
+
+![what-is-a-state-diagram](https://github.com/user-attachments/assets/7c6ebc32-4ef1-455b-8354-ba3ccce6df6f)
+
+---
+## Flowchart
+
+![Draw-a-flowchart-to-print-the-first-5-multiples-of-3](https://github.com/user-attachments/assets/0283f62f-8bfe-4562-960b-23437ceb5e6d)
+---
 
