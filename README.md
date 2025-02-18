@@ -140,3 +140,9 @@ These characteristics are essential for evaluating software performance, future-
 
 ![image](https://github.com/user-attachments/assets/09511ae9-0738-4be9-8af9-b6db15f79cdb)
 
+---
+# What are APIs?
+APIs, or Application Programming Interfaces, are sets of rules and protocols that allow different software applications to communicate with each other. They act as bridges that enable interaction between different systems, software, or services without needing to understand the internal workings of each. APIs can be thought of as messengers that take a request, relay it to another system, and then return the response.
+
+![download](https://github.com/user-attachments/assets/ffc09e24-c03b-4f86-9be6-35bcc8167444)
+
