@@ -165,3 +165,26 @@ APIs, or Application Programming Interfaces, are sets of rules and protocols tha
 ![Draw-a-flowchart-to-print-the-first-5-multiples-of-3](https://github.com/user-attachments/assets/0283f62f-8bfe-4562-960b-23437ceb5e6d)
 ---
 
+Here’s a well-formatted **README** file for your course learning objectives:  
+
+---
+
+# **Course Overview: Introduction to Artificial Intelligence**  
+
+## **What You’ll Learn**  
+
+After completing this course, you will be able to:  
+
+- Define **Artificial Intelligence (AI)**  
+- Describe the **three levels of AI**  
+- Explore the **history of AI**, from its origins to future possibilities  
+- Define and explain **Machine Learning (ML)**  
+- Differentiate between **structured** and **unstructured data**  
+- Understand how **Machine Learning organizes data**  
+- Learn how **ML structures unstructured data**  
+- Explore how **ML uses probabilistic calculations** to solve problems  
+- Describe **three key methods** ML uses to analyze data  
+- Discuss the **ideal relationship between humans and Machine Learning**  
+
+
+---
