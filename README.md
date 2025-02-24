@@ -188,3 +188,7 @@ After completing this course, you will be able to:
 
 
 ---
+**Artificial intelligence (AI)** refers to the ability of a machine to learn patterns and make predictions.
+In its simplest form, artificial intelligence is a field that combines computer science and robust datasets to enable problem-solving.
+
+![image](https://github.com/user-attachments/assets/757cc73f-8dab-4637-bec0-8cbcb068cef6)
