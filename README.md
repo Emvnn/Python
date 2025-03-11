@@ -396,4 +396,24 @@ Chatbots are designed to answer user queries effectively.
 ## 6. Extending Human Expertise with AI
 NLP and **Computer Vision** are powerful AI techniques that extend human capabilities, allowing better decision-making, automation, and data analysis.
 
+---
 
+# IBM Watson Studio – AI Machine Learning Project  
+
+## Overview  
+IBM Watson Studio is an **integrated development environment (IDE)** designed to streamline **machine learning model development** and improve team collaboration. It enables users to **construct, provision, run, and test machine learning models**, with results saved as **working models or editable notebooks** for further modification.  
+
+## Project Summary  
+In this project, you explored IBM Watson Studio through hands-on simulations to:  
+
+- **Provision the Watson Studio service**  
+- **Set up a new AI machine learning project**  
+- **Import bank loan risk data**  
+- **Create and train four machine learning models**  
+- **Run models competitively to evaluate performance**  
+- **Identify the most effective model for predicting bank loan risk**  
+
+## Business Impact  
+This project involved **analyzing a client’s business need** and developing an **AI-driven solution** to **predict bank loan risk** with high accuracy. Through experimentation and model comparison, you identified the best-performing machine learning approach to meet the client’s requirements.  
+
+---  
