@@ -417,3 +417,42 @@ In this project, you explored IBM Watson Studio through hands-on simulations to:
 This project involved **analyzing a client’s business need** and developing an **AI-driven solution** to **predict bank loan risk** with high accuracy. Through experimentation and model comparison, you identified the best-performing machine learning approach to meet the client’s requirements.  
 
 ---  
+
+
+# Ethical AI: Key Learning Points
+
+## 1. Fairness
+- Fairness in AI means ensuring the equitable treatment of individuals or groups.
+- Achieving fairness involves mitigating unwanted bias.
+- **Protected attributes** distinguish different population groups.
+- **Privileged groups** traditionally receive more favorable outcomes.
+- **Unprivileged groups** traditionally receive less favorable outcomes.
+- There is no universally defined set of protected attributes.
+- Bias is a systematic error that can lead to unfair decisions, whether intentional or not.
+
+## 2. Robustness
+- A robust AI system effectively handles exceptional conditions, such as abnormal inputs or malicious attacks, without causing harm.
+- **Adversarial attacks** exploit AI system vulnerabilities to achieve a malicious objective.
+- Two types of adversarial attacks:
+  - **Poisoning**: Manipulating training data to mislead the AI model.
+  - **Evasion**: Modifying inputs to deceive an already trained AI model.
+
+## 3. Explainability
+- AI systems are explainable when non-experts can understand how and why a prediction or recommendation was made.
+- **Interpretability** is the degree to which an observer can understand the cause of a decision.
+- Explainability focuses on the reasoning process behind AI-generated results.
+
+## 4. Transparency
+- Transparency involves disclosing details about:
+  - Data used for training AI models
+  - Design decisions throughout development
+  - Model creation, evaluation, and deployment
+- **Governance** ensures that AI systems comply with internal policies and best practices.
+
+## 5. Privacy
+- AI models can use personal and sensitive data for training, provided that **privacy techniques** are applied to protect individuals.
+- **Privacy-enhancing techniques**:
+  - **Model anonymization**: Ensuring individual identities are not identifiable.
+  - **Differential privacy**: Adding noise to datasets to protect individual data points.
+  - **Data minimization**: Reducing the amount of personal data retained after model training.
+
